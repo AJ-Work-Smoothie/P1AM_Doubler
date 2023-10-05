@@ -1,3 +1,12 @@
 {
-  "C_Cpp.default.compilerPath": ""
+  "C_Cpp.default.compilerPath": "",
+  "workbench.colorCustomizations":
+    {
+      "[Community Material Theme]": 
+        {
+          "panel.border": "#00509b8c",
+          "editorGroup.border": "#00509b8c",
+          "sideBar.border": "#00509b8c",
+        },      
+    }
 }
