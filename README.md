@@ -1,4 +1,4 @@
-## This library has been updated to support the serial doubler! See the P1AM-SERIAL_Doubler readme & wiki for more information. ##
+## This library has been updated to support the serial doubler! See the P1AM-SERIAL_Doubler readme & Wiki for more information. ##
 
 ProductivityOpen P1AM-100 [![Build Status](https://github.com/facts-engineering/P1AM/actions/workflows/main.yml/badge.svg)](https://github.com/facts-engineering/P1AM/actions)
 ============================
