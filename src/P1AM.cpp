@@ -743,7 +743,7 @@ uint8_t P1AM::printModules(){
 		slot++;
 	}
 	dataSync();
-	Serial.println("");	//Print an empty line to give us some breathing room later
+	//Serial.println("");	//Print an empty line to give us some breathing room later
 	return goodSlots;
 }
 
